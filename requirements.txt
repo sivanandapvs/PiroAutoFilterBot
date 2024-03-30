@@ -11,3 +11,4 @@ datetime
 pytz
 aiohttp
 psutil==5.9.4
+pip3 install psycopg2 gunicorn && pip3 freeze
